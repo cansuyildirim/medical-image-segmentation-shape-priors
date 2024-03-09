@@ -1,5 +1,6 @@
 """
 Ref: https://github.com/Project-MONAI/tutorials/blob/main/3d_segmentation/spleen_segmentation_3d_lightning.ipynb
+Ref: https://github.com/SCIInstitute/ShapeWorks/blob/master/
 """
 import os
 import random
